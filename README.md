@@ -125,5 +125,17 @@ The Gradient Boosting model provides a well-balanced performance for predicting 
 - Future Considerations:
 
      - Advanced analytics for bed capacity planning.
+       
+# *Future Improvements*
+- Feature engineering to improve predictive performance.
 
+- Implement predictive models in hospital management systems.
+
+- Trying other ensemble models (Random Forest, XGBoost).
+
+- Monitor model performance and adjust for improved accuracy.
+
+- Using time-series analysis for stay duration trends.
+
+- Leverage business intelligence tools for further optimization.
      - AI-driven decision-making models for hospital administration.
